@@ -2,8 +2,8 @@
 
 ## PL
 ### Aplikacja stworzona dla rozdzielczości 1440x788.  
-Prosta aplikacja "**to do**".
+Aplikacja "**to do**".
 
 ## EN
 ### Application created for 1440x788 resolution.
-Simple "**to do**" application.
+"**to do**" application.
